@@ -1,24 +1,5 @@
-# README
+# A simple Group App.
+Create you own groups for specific needs(work, college, BestFriendsForever, etc) and add your favorite contacts to the group and keep the conversation PRIVATE to only the members.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Feedback or new feature suggestions: twitter.com/nbsamar
